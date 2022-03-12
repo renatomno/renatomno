@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Alpha Ed/tech**
 
-- 🌱 I’m currently learning **jQuery, React and Node.js**
+- 🌱 I’m currently learning **React, Node.js and PostreSQL**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
