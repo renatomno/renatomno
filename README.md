@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Alpha Ed/tech**
 
-- 🌱 I’m currently learning **Ruby, Rails and PostreSQL**
+- 🌱 I’m currently learning **Ruby, Rails and Redis**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -35,6 +35,9 @@
   </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
