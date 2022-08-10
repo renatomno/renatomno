@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Alpha Ed/tech**
 
-- 🌱 I’m currently learning **Ruby, Rails and Redis**
+- 🌱 I’m currently learning **Ruby, Rails and React**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -43,9 +43,6 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
   </a> 
 </p>
 
